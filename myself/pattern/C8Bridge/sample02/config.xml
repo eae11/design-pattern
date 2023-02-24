@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config>
+    <!--RefinedAbstraction-->
+    <className>pattern.C8Bridge.sample02.JPGImage</className>
+    <!--ConcreteImplementor-->
+    <className>pattern.C8Bridge.sample02.WindowsImp</className>
+</config>
